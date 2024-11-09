@@ -1,0 +1,11 @@
+C:\Users\Nam\Desktop\PE_PRN212_SU24_118801_NguyenThanhNam\GermanyEuro2024_BLL\bin\Debug\net8.0\GermanyEuro2024_BLL.deps.json
+C:\Users\Nam\Desktop\PE_PRN212_SU24_118801_NguyenThanhNam\GermanyEuro2024_BLL\bin\Debug\net8.0\GermanyEuro2024_BLL.dll
+C:\Users\Nam\Desktop\PE_PRN212_SU24_118801_NguyenThanhNam\GermanyEuro2024_BLL\bin\Debug\net8.0\GermanyEuro2024_BLL.pdb
+C:\Users\Nam\Desktop\PE_PRN212_SU24_118801_NguyenThanhNam\GermanyEuro2024_BLL\obj\Debug\net8.0\GermanyEuro2024_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nam\Desktop\PE_PRN212_SU24_118801_NguyenThanhNam\GermanyEuro2024_BLL\obj\Debug\net8.0\GermanyEuro2024_BLL.AssemblyInfoInputs.cache
+C:\Users\Nam\Desktop\PE_PRN212_SU24_118801_NguyenThanhNam\GermanyEuro2024_BLL\obj\Debug\net8.0\GermanyEuro2024_BLL.AssemblyInfo.cs
+C:\Users\Nam\Desktop\PE_PRN212_SU24_118801_NguyenThanhNam\GermanyEuro2024_BLL\obj\Debug\net8.0\GermanyEuro2024_BLL.csproj.CoreCompileInputs.cache
+C:\Users\Nam\Desktop\PE_PRN212_SU24_118801_NguyenThanhNam\GermanyEuro2024_BLL\obj\Debug\net8.0\GermanyEuro2024_BLL.dll
+C:\Users\Nam\Desktop\PE_PRN212_SU24_118801_NguyenThanhNam\GermanyEuro2024_BLL\obj\Debug\net8.0\refint\GermanyEuro2024_BLL.dll
+C:\Users\Nam\Desktop\PE_PRN212_SU24_118801_NguyenThanhNam\GermanyEuro2024_BLL\obj\Debug\net8.0\GermanyEuro2024_BLL.pdb
+C:\Users\Nam\Desktop\PE_PRN212_SU24_118801_NguyenThanhNam\GermanyEuro2024_BLL\obj\Debug\net8.0\ref\GermanyEuro2024_BLL.dll
